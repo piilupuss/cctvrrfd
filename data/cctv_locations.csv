@@ -1,0 +1,11 @@
+cctv_id,lat,lon,cctv_name,url
+1,"-6.930554","107.643828","ibrahim_adjie","https://pelindung.bandung.go.id:3443/video/DPU/ibrahimadjie.m3u8"
+2,"-6.904082","107.666879","nasution_cikadut","https://pelindung.bandung.go.id:3443/video/DPU/cikadut.m3u8"
+3,"-6.900051","107.643276","cikutra","https://pelindung.bandung.go.id:3443/video/DPU/cikutra.m3u8"
+4,"-6.928582","107.676815","cingised","https://pelindung.bandung.go.id:3443/video/DPU/cingised.m3u8"
+5,"-6.892379","107.584132","djundjunan","https://pelindung.bandung.go.id:3443/video/DPU/djundjunan.m3u8"
+6,"-6.965532","107.686969","gedebage_derwati","https://pelindung.bandung.go.id:3443/video/DPU/gdbageselatan.m3u8"
+7,"-6.941275","107.592411","kopo_citarip","https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8"
+8,"-6.932247","107.693004","rumah_sakit","https://pelindung.bandung.go.id:3443/video/DPU/rumahsakit.m3u8"
+9,"-6.919119","107.589960","sudirman","https://pelindung.bandung.go.id:3443/video/DPU/sudirman.m3u8"
+10,"-6.930290","107.576103","trs_pasirkoja","https://pelindung.bandung.go.id:3443/video/DPU/trspasirkoja.m3u8"

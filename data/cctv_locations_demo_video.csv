@@ -1,0 +1,4 @@
+cctv_id,lat,lon,cctv_name,url
+1,"-6.941275","107.592411","kopo_citarip","data/video/cctv1.mp4"
+2,"-6.919119","107.589960","sudirman","data/video/cctv2.mp4"
+3,"-6.930290","107.576103","trs_pasirkoja","data/video/cctv3.mp4"

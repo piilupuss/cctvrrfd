@@ -1,0 +1,10 @@
+timestamp,cctv_id,cctv_name,latitude,longitude,image_path,flood_status
+20251020_212712,1,kopo_citarip,-6.941275,107.592411,data/captured_images/cctv_1/kopo_citarip_20251020_212712.jpg,Flood
+20251020_212712,3,trs_pasirkoja,-6.93029,107.576103,data/captured_images/cctv_3/trs_pasirkoja_20251020_212712.jpg,Flood
+20251020_212712,2,sudirman,-6.919119,107.58996,data/captured_images/cctv_2/sudirman_20251020_212712.jpg,Flood
+20251020_212812,3,trs_pasirkoja,-6.93029,107.576103,data/captured_images/cctv_3/trs_pasirkoja_20251020_212812.jpg,Flood
+20251020_212812,1,kopo_citarip,-6.941275,107.592411,data/captured_images/cctv_1/kopo_citarip_20251020_212812.jpg,Flood
+20251020_212812,2,sudirman,-6.919119,107.58996,data/captured_images/cctv_2/sudirman_20251020_212812.jpg,Dry
+20251020_212912,3,trs_pasirkoja,-6.93029,107.576103,data/captured_images/cctv_3/trs_pasirkoja_20251020_212912.jpg,Flood
+20251020_212912,2,sudirman,-6.919119,107.58996,data/captured_images/cctv_2/sudirman_20251020_212912.jpg,Dry
+20251020_212912,1,kopo_citarip,-6.941275,107.592411,data/captured_images/cctv_1/kopo_citarip_20251020_212912.jpg,Flood
