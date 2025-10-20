@@ -47,7 +47,7 @@ pip install -r requirements.txt
 Due to GitHub's file size limitations, the road network GeoJSON file is hosted externally.
 
 1.  **Download the file:** Download `roads_bandung.geojson` from the following Google Drive link:
-    🔗 **[https://drive.google.com/file/d/1NDOvwODVo8GYGTWQ80r18WZiaGVIBBud/view?usp=share\_link](https://drive.google.com/file/d/1NDOvwODVo8GYGTWQ80r18WZiaGVIBBud/view?usp=share_link)**
+    🔗 **[Download here](https://drive.google.com/file/d/1NDOvwODVo8GYGTWQ80r18WZiaGVIBBud/view?usp=share_link)**
 2.  **Place the file:** Ensure you place the downloaded `roads_bandung.geojson` file inside the existing `data/` directory in your project folder.
 
 **Note:** Ensure your `data/` folder also contains the DEM file (`DEMNAS_1209-31_v1.0.tif`) and the CCTV location data (`cctv_locations.csv`).
@@ -56,12 +56,12 @@ Due to GitHub's file size limitations, the road network GeoJSON file is hosted e
 
 The project offers two main scripts to run the application: the Live Stream Version and the Demo Version.
 
-### 1. Live Stream Version (app_vis_coba.py)
+### 1. Live Stream Version (app.py)
 
 This is the primary application designed to connect to live CCTV stream URLs specified in cctv_locations.csv and capture frames every 20 seconds (CAPTURE_INTERVAL).
 
 ```bash
-streamlit run app_vis_coba.py
+streamlit run app.py
 ```
 
 ### 2. Demo Version (app_demo.py) 🎬 (For showcasing flood event)
