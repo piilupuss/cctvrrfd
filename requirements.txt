@@ -2,13 +2,8 @@ opencv-python
 tensorflow
 keras
 geopandas
-matplotlib
 plotly
 streamlit
 numpy
 pandas
 rasterio
-scipy
-scikit-learn
-seaborn
-pytube
